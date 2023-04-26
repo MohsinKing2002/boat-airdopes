@@ -1,0 +1,75 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.navbar {
+    padding: 0.4rem 1rem;
+}
+
+.nav-link {
+    margin: 0 15px;
+}
+
+.imgs {
+    width: 60% !important;
+    margin: auto;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+}
+
+.card {
+    width: 18rem;
+    text-align: justify;
+    margin: 10px;
+}
+
+.title {
+    text-transform: capitalize;
+}
+
+.products {
+    flex-wrap: wrap;
+}
+
+.home{
+    background-color: #82a73d;
+}
+
+.home img {
+    width: 40%;
+    display: block;
+    margin: auto;
+}
+
+.contact{
+    width: 40%;
+}
+
+.contact img{
+    width: 50%;
+}
+
+@media screen and (max-width: 772px) {
+    .home img{
+        width: 60%;
+    }
+    .flex{
+        flex-direction: column;
+    }
+    .contact{
+        width: 90%;
+    }
+    .contact img{
+        margin: auto;
+        display: block;
+    }
+    .heading{
+        text-align: center;
+    }
+    .card-text{
+        font-size: 14px !important;
+    }
+}

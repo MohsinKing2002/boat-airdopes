@@ -1,0 +1,58 @@
+export const products = [
+  {
+    id: 0,
+    img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/616b4ead-bbd9-4a16-aeab-8d331a16f697_600x.png?v=1642405569",
+    title: "boat airdopes 131",
+    price: "1550",
+    rating: "4.9",
+  },
+  {
+    id: 1,
+    img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/3b27aa2a-68ce-47db-a975-ffd5543393b6_600x.png?v=1625046357",
+    title: "boat airdopes 402",
+    price: "1700",
+    rating: "4.2",
+  },
+  {
+    id: 2,
+    img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/115-main2_600x.png?v=1655368638",
+    title: "boat airdopes 115",
+    price: "1650",
+    rating: "4.0",
+  },
+  {
+    id: 3,
+    img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main_blue_eb862c0f-658f-43a2-99c2-65783233f592_600x.png?v=1641980344",
+    title: "boat airdopes 181",
+    price: "1850",
+    rating: "4.4",
+  },
+  {
+    id: 4,
+    img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/product-Image.png?v=1625813323",
+    title: "boat airdopes 101",
+    price: "1950",
+    rating: "4.3",
+  },
+  {
+    id: 5,
+    img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/616b4ead-bbd9-4a16-aeab-8d331a16f697_600x.png?v=1642405569",
+    title: "boat airdopes 131",
+    price: "1550",
+    rating: "4.9",
+  },
+  {
+    id: 6,
+    img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/3b27aa2a-68ce-47db-a975-ffd5543393b6_600x.png?v=1625046357",
+    title: "boat airdopes 198",
+    price: "1700",
+    rating: "4.2",
+  },
+  {
+    id: 7,
+    img: "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/115-main2_600x.png?v=1655368638",
+    title: "boat airdopes 180",
+    price: "1650",
+    rating: "4.0",
+  },
+];
